@@ -6,8 +6,6 @@ Intruções de jogo no próprio app.
 (versão melhorada porém ainda requer alguns ajustes)
 Ferramentas:
   - NodeJs
-  - React Js
-  - JS
+  - React Native
   - Mysql
-  - TomCat
-  - Integrantes Victor Alexandrre, Brunna Villa Chã e Walace Lima)
+  - Integrantes Victor Alexandre, Brunna Vila Chã e Walace Lima)
